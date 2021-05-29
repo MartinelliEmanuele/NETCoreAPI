@@ -1,0 +1,13 @@
+.vs/*
+Logs
+AppApi/obj/*
+AppApi/bin/*
+Utils/bin/*
+Utils/obj/*
+Database/bin/*
+Database/obj/*
+AppApi/Properties/PublishProfiles/*
+packages/*
+AppApi/ClientApp/*
+AppApi/ClientApp*
+AppApi/appsettings.Development.json
